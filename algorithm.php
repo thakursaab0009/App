@@ -5,8 +5,9 @@
   </head>
   <body>
       <?php include('includes/navigation.php') ?>
-    <div class="container-flui">
-        do algorithm work here...........
+    <div class="container-fluid">
+        make algorithms app here code everything inside this page we'll create team page leter
+        after making changes push to github using github desktop app
     </div>
   </body>
 </html>
