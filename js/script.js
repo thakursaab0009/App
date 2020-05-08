@@ -1,1 +1,11 @@
-alert("Hello World!!!!");
+/*
+------------------->Algorithm Scripts<-----------------
+
+
+
+
+
+
+------------------->Algorithm Scripts Ends<-----------------
+
+*/

@@ -5,8 +5,8 @@
   </head>
   <body>
       <?php include('includes/navigation.php') ?>
-      <div class="container-fluid">
-          This is home page don't do anything here right now.......
-      </div>
+    <div class="container-flui">
+        do algorithm work here...........
+    </div>
   </body>
 </html>
